@@ -136,6 +136,15 @@ kefGPT/
 - after download, works fully offline
 - model cached in `models/embeddings/`
 
+## system architecture
+![alt text](pics/image.png)
+
+## class-level components map
+![alt text](pics/image1.png)
+
+## workflow
+![alt text](pics/image2.png)
+
 ## limitations
 
 - PDF parsing quality depends on PDF structure
